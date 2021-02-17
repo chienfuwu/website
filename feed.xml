@@ -3,12 +3,24 @@
     <title>Chien-Fu Wu</title>
     <link href="https://chienfuwu.github.io/website/feed.xml" rel="self" />
     <link href="https://chienfuwu.github.io/website" />
-    <updated>2021-02-17T22:57:55+09:00</updated>
+    <updated>2021-02-17T23:36:07+09:00</updated>
     <author>
         <name>Chien-Fu Wu</name>
     </author>
     <id>https://chienfuwu.github.io/website</id>
 
+    <entry>
+        <title>Research</title>
+        <author>
+            <name>Chien-Fu Wu</name>
+        </author>
+        <link href="https://chienfuwu.github.io/website/research.html"/>
+        <id>https://chienfuwu.github.io/website/research.html</id>
+
+        <updated>2021-02-17T23:36:07+09:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Publication</title>
         <author>
@@ -17,7 +29,7 @@
         <link href="https://chienfuwu.github.io/website/publication-2.html"/>
         <id>https://chienfuwu.github.io/website/publication-2.html</id>
 
-        <updated>2021-02-17T22:13:46+09:00</updated>
+        <updated>2021-02-17T23:28:50+09:00</updated>
             <summary></summary>
         <content></content>
     </entry>
@@ -29,15 +41,17 @@
         <link href="https://chienfuwu.github.io/website/about-me.html"/>
         <id>https://chienfuwu.github.io/website/about-me.html</id>
 
-        <updated>2021-02-17T22:57:55+09:00</updated>
+        <updated>2021-02-17T23:27:45+09:00</updated>
             <summary>
                 <![CDATA[
-                    Education------------------------------------------------------------------------------------------------- 2019 - Present Ph.D., Bioproduction science, Tokyo University of Agriculture &amp; Technology Laboratory of Molecular and Cellular Biology Advisor: Prof. Hiromitsu Moriyama 2016 - 2018 M.S., Department of Plant Pathology, National Chung Hsing University Laboratory of Plant Virology and Plant Genetic Engineering Advisor: Prof.
+                     I'm working on the analysis of the terminal structures and alteration phenomenon of the dsRNA alternavirus genomes. In the future, I will identify the protein functions of the alternavirus, and screen mycoviruses in Rhizoctonia solani strains collected from Taiwan. ------------------------------------------------------------------------------------------------- 2019 - Present Ph.D.,&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <h2 class="align-center"><strong><figure class="post__image"><img loading="lazy"  src="https://chienfuwu.github.io/website/media/posts/1/IMAG6699.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://chienfuwu.github.io/website/media/posts/1/responsive/IMAG6699-xs.jpg 300w ,https://chienfuwu.github.io/website/media/posts/1/responsive/IMAG6699-sm.jpg 480w ,https://chienfuwu.github.io/website/media/posts/1/responsive/IMAG6699-md.jpg 768w ,https://chienfuwu.github.io/website/media/posts/1/responsive/IMAG6699-lg.jpg 1024w ,https://chienfuwu.github.io/website/media/posts/1/responsive/IMAG6699-xl.jpg 1360w ,https://chienfuwu.github.io/website/media/posts/1/responsive/IMAG6699-2xl.jpg 1600w"  alt="" width="307" height="410"></figure></strong></h2>
+                <h6 class="align-center"><strong><figure class="post__image"><img loading="lazy"  src="https://chienfuwu.github.io/website/media/posts/1/IMAG6699.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://chienfuwu.github.io/website/media/posts/1/responsive/IMAG6699-xs.jpg 300w ,https://chienfuwu.github.io/website/media/posts/1/responsive/IMAG6699-sm.jpg 480w ,https://chienfuwu.github.io/website/media/posts/1/responsive/IMAG6699-md.jpg 768w ,https://chienfuwu.github.io/website/media/posts/1/responsive/IMAG6699-lg.jpg 1024w ,https://chienfuwu.github.io/website/media/posts/1/responsive/IMAG6699-xl.jpg 1360w ,https://chienfuwu.github.io/website/media/posts/1/responsive/IMAG6699-2xl.jpg 1600w"  alt="" width="307" height="410"></figure></strong></h6>
+<p class="font_7 msg msg--success"><strong>  I'm working on the analysis of the terminal structures and alteration phenomenon of the dsRNA alternavirus genomes.                                                        </strong><strong>In the future, I will identify the protein functions of the alternavirus, and screen mycoviruses in Rhizoctonia solani strains collected from Taiwan.</strong></p>
+<p> </p>
 <h2 class="align-center"><strong>Education</strong></h2>
 <p>-------------------------------------------------------------------------------------------------</p>
 <p><strong><em style="font-weight: 400;">2019 - Present  </em>Ph.D.</strong>, Bioproduction science, <span style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);">Tokyo University of Agriculture &amp; Technology          </span>                                 <a href="http://web.tuat.ac.jp/~mcb/" target="_blank" rel="noopener noreferrer">Laboratory of Molecular and Cellular Biology</a>                                                                                 Advisor: Prof. Hiromitsu Moriyama</p>
