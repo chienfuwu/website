@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Chien-Fu Wu</title>
-    <link href="https://chienfuwu.github.io/website/feed.xml" rel="self" />
-    <link href="https://chienfuwu.github.io/website" />
+    <link href="https://chienfuwu.github.io/website./feed.xml" rel="self" />
+    <link href="https://chienfuwu.github.io/website." />
     <updated>2021-02-17T22:13:46+09:00</updated>
     <author>
         <name>Chien-Fu Wu</name>
     </author>
-    <id>https://chienfuwu.github.io/website</id>
+    <id>https://chienfuwu.github.io/website.</id>
 
     <entry>
         <title>Publication</title>
         <author>
             <name>Chien-Fu Wu</name>
         </author>
-        <link href="https://chienfuwu.github.io/website/publication-2.html"/>
-        <id>https://chienfuwu.github.io/website/publication-2.html</id>
+        <link href="https://chienfuwu.github.io/website./publication-2.html"/>
+        <id>https://chienfuwu.github.io/website./publication-2.html</id>
 
         <updated>2021-02-17T22:13:46+09:00</updated>
             <summary></summary>
@@ -26,8 +26,8 @@
         <author>
             <name>Chien-Fu Wu</name>
         </author>
-        <link href="https://chienfuwu.github.io/website/about-me.html"/>
-        <id>https://chienfuwu.github.io/website/about-me.html</id>
+        <link href="https://chienfuwu.github.io/website./about-me.html"/>
+        <id>https://chienfuwu.github.io/website./about-me.html</id>
 
         <updated>2021-02-17T21:10:20+09:00</updated>
             <summary>
@@ -37,7 +37,7 @@
             </summary>
         <content type="html">
             <![CDATA[
-                <h2 class="align-center"><strong><figure class="post__image"><img loading="lazy"  src="https://chienfuwu.github.io/website/media/posts/1/IMAG6699.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://chienfuwu.github.io/website/media/posts/1/responsive/IMAG6699-xs.jpg 300w ,https://chienfuwu.github.io/website/media/posts/1/responsive/IMAG6699-sm.jpg 480w ,https://chienfuwu.github.io/website/media/posts/1/responsive/IMAG6699-md.jpg 768w ,https://chienfuwu.github.io/website/media/posts/1/responsive/IMAG6699-lg.jpg 1024w ,https://chienfuwu.github.io/website/media/posts/1/responsive/IMAG6699-xl.jpg 1360w ,https://chienfuwu.github.io/website/media/posts/1/responsive/IMAG6699-2xl.jpg 1600w"  alt="" width="307" height="410"></figure></strong></h2>
+                <h2 class="align-center"><strong><figure class="post__image"><img loading="lazy"  src="https://chienfuwu.github.io/website./media/posts/1/IMAG6699.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://chienfuwu.github.io/website./media/posts/1/responsive/IMAG6699-xs.jpg 300w ,https://chienfuwu.github.io/website./media/posts/1/responsive/IMAG6699-sm.jpg 480w ,https://chienfuwu.github.io/website./media/posts/1/responsive/IMAG6699-md.jpg 768w ,https://chienfuwu.github.io/website./media/posts/1/responsive/IMAG6699-lg.jpg 1024w ,https://chienfuwu.github.io/website./media/posts/1/responsive/IMAG6699-xl.jpg 1360w ,https://chienfuwu.github.io/website./media/posts/1/responsive/IMAG6699-2xl.jpg 1600w"  alt="" width="307" height="410"></figure></strong></h2>
 <h2 class="align-center"><strong>Education</strong></h2>
 <p>-------------------------------------------------------------------------------------------------</p>
 <p><strong><em style="font-weight: 400;">2019 - Present  </em>Ph.D.</strong>, Bioproduction science, <span style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);">Tokyo University of Agriculture &amp; Technology          </span>                                 <a href="http://web.tuat.ac.jp/~mcb/" target="_blank" rel="noopener noreferrer">Laboratory of Molecular and Cellular Biology</a>                                                                                 Advisor: Prof. Hiromitsu Moriyama</p>
