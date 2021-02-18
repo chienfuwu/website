@@ -3,12 +3,36 @@
     <title>Chien-Fu Wu</title>
     <link href="https://chienfuwu.github.io/website/feed.xml" rel="self" />
     <link href="https://chienfuwu.github.io/website" />
-    <updated>2021-02-18T16:00:48+09:00</updated>
+    <updated>2021-02-18T16:15:23+09:00</updated>
     <author>
         <name>Chien-Fu Wu</name>
     </author>
     <id>https://chienfuwu.github.io/website</id>
 
+    <entry>
+        <title>Campus Life</title>
+        <author>
+            <name>Chien-Fu Wu</name>
+        </author>
+        <link href="https://chienfuwu.github.io/website/campus-life/"/>
+        <id>https://chienfuwu.github.io/website/campus-life/</id>
+
+        <updated>2021-02-18T16:15:23+09:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Daily Life</title>
+        <author>
+            <name>Chien-Fu Wu</name>
+        </author>
+        <link href="https://chienfuwu.github.io/website/daily-life/"/>
+        <id>https://chienfuwu.github.io/website/daily-life/</id>
+
+        <updated>2021-02-18T16:10:26+09:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Life</title>
         <author>
@@ -41,7 +65,7 @@
         <link href="https://chienfuwu.github.io/website/publication-2/"/>
         <id>https://chienfuwu.github.io/website/publication-2/</id>
 
-        <updated>2021-02-18T15:17:15+09:00</updated>
+        <updated>2021-02-18T16:07:20+09:00</updated>
             <summary>
                 <![CDATA[
                     Papers---------------------------------------------------------------- ---------------------------------------------------------------- ---------------------------------------------------------------- 
@@ -59,7 +83,7 @@
 <h2>Presentations</h2>
 <p>----------------------------------------------------------------</p>
 <ul>
-<li class="font_8">複数の分化型の Fusarium oxysporum から見つかった新規デルタフレキシウ イルスの塩基配列の解析. <span style="text-decoration: underline;">岡田亮</span> ・北浦健太朗 ・<strong>呉建甫</strong> ・宮本拓也 ・林可奈子 ・小河原 孝司 ・森山裕充. 日本植物病理学会大会. 2020.<a href="https://www.kntk.co.jp/ec/2020/ppsj/pdf/program.pdf">🔗</a></li>
+<li class="font_8">複数の分化型の Fusarium oxysporum から見つかった新規デルタフレキシウ イルスの塩基配列の解析. <span style="text-decoration: underline;">岡田亮</span> ・北浦健太朗 ・<strong>呉建甫</strong> ・宮本拓也 ・林可奈子 ・小河原 孝司 ・森山裕充. 日本植物病理学会大会. 2020.<a href="https://www.kntk.co.jp/ec/2020/ppsj/pdf/program.pdf" target="_blank" rel="noopener noreferrer">🔗</a></li>
 <li class="font_8"><span style="text-decoration: underline;">Tseng, Y.-W.</span>, <strong>Wu, C.-F</strong>., Lee, C.-H., Chen, Y.-K., and Jan, F.-J., "Development of a multiplex system for rapid detection of viroids in <em>Solanaceae</em>", The Plant Annual Meeting, National Chung Hsing University, Taichung, Taiwan, November 2018.</li>
 <li class="font_8"><span style="text-decoration: underline;"><strong>Wu, C.-F.</strong></span><span style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);">, Tseng, Y.-W., Lee, C.-H., Chen, Y.-K. and Jan, F.-J., "Development of multiplex viroid rapid detection system for </span><em style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);">Solanaceae</em><span style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);"> plants", Taiwan Phytopathological Annual Meeting, National Chung Hsing University, Taichung, Taiwan, April 2018.</span></li>
 <li class="font_8"><span style="text-decoration: underline;">Tseng, Y.-W</span><span style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);"><span style="text-decoration: underline;">.</span>, </span><strong style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit;">Wu, C.-F.</strong><span style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);">, Lee, C.-H., Chen, Y.-K., and Jan, F.-J., " Reverse transcription loop-mediated isothermal amplification (RT-LAMP) method for the detection of six quarantined viroids of Solanaceae simultaneously", Taiwan Phytopathological Annual Meeting, National Chung Hsing University, Taichung, Taiwan, April 2018. </span></li>
