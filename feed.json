@@ -10,6 +10,18 @@
     },
     "items": [
         {
+            "id": "https://chienfuwu.github.io/website/life/",
+            "url": "https://chienfuwu.github.io/website/life/",
+            "title": "Life",
+            "author": {
+                "name": "Chien-Fu Wu"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-02-18T16:00:48+09:00",
+            "date_modified": "2021-02-18T16:00:48+09:00"
+        },
+        {
             "id": "https://chienfuwu.github.io/website/research/",
             "url": "https://chienfuwu.github.io/website/research/",
             "title": "Research",
