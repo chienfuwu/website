@@ -37,13 +37,15 @@
             "id": "https://chienfuwu.github.io/website/research/",
             "url": "https://chienfuwu.github.io/website/research/",
             "title": "Research",
+            "summary": "Coming soon...",
+            "content_html": "<h2>Coming soon...</h2>",
             "author": {
                 "name": "Chien-Fu Wu"
             },
             "tags": [
             ],
             "date_published": "2021-02-17T23:35:43+09:00",
-            "date_modified": "2021-02-17T23:48:07+09:00"
+            "date_modified": "2021-02-20T23:37:35+09:00"
         },
         {
             "id": "https://chienfuwu.github.io/website/publication-2/",

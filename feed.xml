@@ -3,7 +3,7 @@
     <title>Chien-Fu Wu</title>
     <link href="https://chienfuwu.github.io/website/feed.xml" rel="self" />
     <link href="https://chienfuwu.github.io/website" />
-    <updated>2021-02-19T18:53:35+09:00</updated>
+    <updated>2021-02-20T23:37:35+09:00</updated>
     <author>
         <name>Chien-Fu Wu</name>
     </author>
@@ -41,9 +41,17 @@
         <link href="https://chienfuwu.github.io/website/research/"/>
         <id>https://chienfuwu.github.io/website/research/</id>
 
-        <updated>2021-02-17T23:48:07+09:00</updated>
-            <summary></summary>
-        <content></content>
+        <updated>2021-02-20T23:37:35+09:00</updated>
+            <summary>
+                <![CDATA[
+                    Coming soon...
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <h2>Coming soon...</h2>
+            ]]>
+        </content>
     </entry>
     <entry>
         <title>Publication</title>
