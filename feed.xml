@@ -3,12 +3,36 @@
     <title>Chien-Fu Wu</title>
     <link href="https://chienfuwu.github.io/website/feed.xml" rel="self" />
     <link href="https://chienfuwu.github.io/website" />
-    <updated>2021-02-24T21:14:46+09:00</updated>
+    <updated>2021-02-24T22:48:26+09:00</updated>
     <author>
         <name>Chien-Fu Wu</name>
     </author>
     <id>https://chienfuwu.github.io/website</id>
 
+    <entry>
+        <title>春天來了! Spring is coming!</title>
+        <author>
+            <name>Chien-Fu Wu</name>
+        </author>
+        <link href="https://chienfuwu.github.io/website/chun-tian-lai-liao/"/>
+        <id>https://chienfuwu.github.io/website/chun-tian-lai-liao/</id>
+
+        <updated>2021-02-24T22:48:26+09:00</updated>
+            <summary>
+                <![CDATA[
+                    不知不覺又到了梅花盛開的季節.... 實驗室旁就有一整排的梅花，還好我沒有花粉症，才能好好的欣賞梅花盛開的景象。 日本的四季分明，校園內的景色也會隨著季節換上不同的樣貌。 
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>不知不覺又到了梅花盛開的季節....</p>
+<p>實驗室旁就有一整排的梅花，還好我沒有花粉症，才能好好的欣賞梅花盛開的景象。</p>
+<p>日本的四季分明，校園內的景色也會隨著季節換上不同的樣貌。</p>
+<figure class="post__image align-right">                          <img loading="lazy"  src="https://chienfuwu.github.io/website/media/posts/8/PXL_20210216_012817939.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://chienfuwu.github.io/website/media/posts/8/responsive/PXL_20210216_012817939-xs.jpg 300w ,https://chienfuwu.github.io/website/media/posts/8/responsive/PXL_20210216_012817939-sm.jpg 480w ,https://chienfuwu.github.io/website/media/posts/8/responsive/PXL_20210216_012817939-md.jpg 768w ,https://chienfuwu.github.io/website/media/posts/8/responsive/PXL_20210216_012817939-lg.jpg 1024w ,https://chienfuwu.github.io/website/media/posts/8/responsive/PXL_20210216_012817939-xl.jpg 1360w ,https://chienfuwu.github.io/website/media/posts/8/responsive/PXL_20210216_012817939-2xl.jpg 1600w"  alt="" width="448" height="597"></figure>                                                                                                                           -<em>20210224</em></p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Campus Life</title>
         <author>
@@ -17,9 +41,19 @@
         <link href="https://chienfuwu.github.io/website/campus-life/"/>
         <id>https://chienfuwu.github.io/website/campus-life/</id>
 
-        <updated>2021-02-18T16:27:41+09:00</updated>
-            <summary></summary>
-        <content></content>
+        <updated>2021-02-24T22:46:32+09:00</updated>
+            <summary>
+                <![CDATA[
+                    2020224春天來了! Spring is coming!
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <ul>
+<li><span style="text-decoration: underline;"><a href="https://chienfuwu.github.io/website/chun-tian-lai-liao/">2020224春天來了! Spring is coming!</a></span></li>
+</ul>
+            ]]>
+        </content>
     </entry>
     <entry>
         <title>Daily Life</title>
