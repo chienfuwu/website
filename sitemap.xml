@@ -1,39 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://chienfuwu.github.io/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://chienfuwu.github.io/website/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>https://chienfuwu.github.io/</loc>
+<loc>https://chienfuwu.github.io/website/</loc>
 </url>
 <url>
-<loc>https://chienfuwu.github.io/about-me/</loc>
+<loc>https://chienfuwu.github.io/website/about-me/</loc>
 <lastmod>2021-03-14T15:21:52+09:00</lastmod>
 <image:image>
-<image:loc>https://chienfuwu.github.io/media\posts\1/IMAG6699.jpg</image:loc>
+<image:loc>https://chienfuwu.github.io/website/media\posts\1/IMAG6699.jpg</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>https://chienfuwu.github.io/campus-life/</loc>
+<loc>https://chienfuwu.github.io/website/campus-life/</loc>
 <lastmod>2021-02-24T22:46:32+09:00</lastmod>
 </url>
 <url>
-<loc>https://chienfuwu.github.io/chun-tian-lai-liao/</loc>
+<loc>https://chienfuwu.github.io/website/chun-tian-lai-liao/</loc>
 <lastmod>2021-02-25T17:09:11+09:00</lastmod>
 <image:image>
-<image:loc>https://chienfuwu.github.io/media\posts\8/PXL_20210216_012817939.jpg</image:loc>
+<image:loc>https://chienfuwu.github.io/website/media\posts\8/PXL_20210216_012817939.jpg</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>https://chienfuwu.github.io/daily-life/</loc>
+<loc>https://chienfuwu.github.io/website/daily-life/</loc>
 <lastmod>2021-02-18T16:27:30+09:00</lastmod>
 </url>
 <url>
-<loc>https://chienfuwu.github.io/publication-2/</loc>
+<loc>https://chienfuwu.github.io/website/publication-2/</loc>
 <lastmod>2021-03-11T20:49:02+09:00</lastmod>
 </url>
 <url>
-<loc>https://chienfuwu.github.io/research/</loc>
+<loc>https://chienfuwu.github.io/website/research/</loc>
 <lastmod>2021-02-20T23:37:35+09:00</lastmod>
 </url>
 </urlset>
